@@ -1,4 +1,4 @@
-# Plan Of ZOOM_CLONE Project
+# ZOOM_CLONE 
 
 - Initialize our NodeJS Project
 - Initialize our First View
